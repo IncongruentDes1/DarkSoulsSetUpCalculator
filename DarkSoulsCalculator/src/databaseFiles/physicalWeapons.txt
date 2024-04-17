@@ -1,0 +1,109 @@
+Weapon Class:Name:Atk-PHYS:Atk-Mag:Atk-Fire:Atk-Light:Atk-Crit:Def-Phys:Def-Mag:Def-Fire:Def-Light:Def-Crit:Bleed:Poison:Divine:Occult:Str-Req:Dex-Req:Int-Req:Faith-Req:Str-Scal:Dex-Scal:Int-Scal:Faith-Scal:Weight:Durability:Atk Type:Acquired From
+Dagger:Dagger:56:0:0:0:131:45:10:30:30:26:0:0:0:0:5:8:0:0:E:B/A+15:-:-:0.5:200:Slash Thrust:Starting equipment for Sorcerer. Merchant: Undead Merchant (male) (300 Souls)
+Dagger:Parrying Dagger:54:0:0:0:131:45:10:30:30:26:0:0:0:0:5:14:0:0:E:B/A+15:-:-:0.5:200:Slash Thrust:Found in upper New Londo Ruins, in the area with the first Banshee.
+Dagger:Bandit's Knife:56:0:0:0:147:45:10:30:30:26:300:0:0:0:6:12:0:0:E:B/A+15:-:-:1:200:Slash:Starting equipment for Thief. Drops from: Undead Assassins.
+Dagger:Ghost Blade:110:0:0:0:127:45:10:30:30:26:0:0:0:0:5:0:0:0:E:-:-:-:0.5:100:Slash Thrust Combo:Drops from: Banshees.
+Dagger:Dark Silver Tracer:75:0:0:0:160:45:10:30:30:26:0:0:0:0:6:25:0:0:E:S:-:-:1:120:Slash Thrust:Obtained either by trading the Soul of Artorias to Lord's Blade Ciaran, or by killing her right away. (AotA only)
+Dagger:Priscilla's Dagger:80:0:0:0:100:45:10:30:30:26:500:0:0:110:6:20:0:0:-:A/S+5:-:-:1:100:Slash Combo:Obtained by cutting off Crossbreed Priscilla's tail.
+Straightsword:Shortsword:78:0:0:0:100:50:10:35:35:32:0:0:0:0:8:10:0:0:C:C:-:-:2:200:Regular Thrust:Starting equipment for Hunter. Merchant: Undead Merchant (male) (600 Souls) Drops from: Hollow Warrior (Sword).
+Straightsword:Longsword:80:0:0:0:100:50:10:35:35:32:0:0:0:0:10:10:0:0:C:C:-:-:3:200:Regular Thrust:Starting equipment for Warrior. Merchant: Blacksmith Andre (1,000 Souls) Drops from: Undead Soldier (Sword).
+Straightsword:Broadsword:82:0:0:0:100:50:10:35:35:32:0:0:0:0:10:10:0:0:C:C:-:-:3:200:Regular:Starting equipment for Knight. Merchant: Blacksmith Andre (1,000 Souls)
+Straightsword:Balder Side Sword:80:0:0:0:100:50:10:35:35:32:0:0:0:0:10:14:0:0:E:B/A+15:-:-:3:120:Regular Thrust:Drops from: Balder Knights (Sword).
+Straightsword:Sunlight Straight Sword:82:0:0:0:100:50:10:35:35:32:0:0:0:0:12:12:0:0:C:C:-:-:4:240:Regular Thrust:Drops from: Solaire of Astora.
+Straightsword:Darksword:82:0:0:0:100:50:10:35:35:32:0:0:0:0:16:16:0:0:C:C:-:-:6:200:Regular:Obtained after reaching Rank 2 in the Darkwraith covenant.
+Straightsword:Barbed Straight Sword:80:0:0:0:100:50:10:35:35:32:300:0:0:0:10:10:0:0:D:D/C+15:-:-:3:160:Thrust:Drops from: Knight Kirk
+Straightsword:Crystal Straight Sword:145:0:0:0:100:50:10:35:35:32:0:0:0:0:16:10:0:0:C:C:-:-:6:60:Regular Thrust:Merchant: Domhnall of Zena (4,000 Souls) Drops from: Undead Crystal Soldiers.
+Straightsword:Silver Knight Straight Sword:175:0:0:0:100:50:10:35:35:32:0:0:0:0:16:22:0:0:E:C:-:-:6:300:Regular:Drops from: Silver Knights
+Straightsword:Astora's Straight Sword:80:80:0:0:100:50:10:35:35:32:0:0:120:0:10:10:0:14:C:C:-:C:3:160:Regular Thrust:Found in Valley of Drakes, guarded by an Undead Dragon
+Straightsword:Drake Sword:200:0:0:0:100:50:10:35:35:32:0:0:0:0:16:10:0:0:-:-:-:-:6:360:Regular Special:Obtained by cutting off Hellkite Wyvern's tail.
+Straightsword:Broken Straight Sword:40:0:0:0:100:20:5:15:15:16:0:0:0:0:8:8:0:0:D:D/C+15:-:-:2:200:Regular Thrust:Drops from: Hollows, Torch Hollows, Infested Ghouls.
+Straightsword:Straight Sword Hilt:20:0:0:0:100:20:5:15:15:10:0:0:0:0:6:6:0:0:E:E:-:-:1:200:Regular:Starting equipment for all players in the Northern Undead Asylum.
+Greatsword:Abyss Greatsword:160:0:0:0:100:40:50:40:40:38:0:0:0:0:22:18:18:18:C:C:-:-:9:300:Regular:Ascended with Soul of Artorias at Giant Blacksmith. (AotA only)
+Greatsword:Greatsword of Artorias (cursed):158:0:0:0:100:60:10:40:40:38:0:0:0:0:24:18:18:18:C:C:C:C:10:400:Regular Thrust:Ascended with Soul of (Great Wolf) Sif at Giant Blacksmith.
+Greatsword:Greatsword of Artorias:120:85:0:0:100:60:10:40:40:38:0:0:140:0:24:18:20:20:C:C:B:B:10:400:Regular Thrust:Ascended with Soul of (Great Wolf) Sif at Giant Blacksmith.
+Greatsword:Great Lord Greatsword:231:0:0:0:100:60:10:40:40:26:0:0:0:0:20:10:0:0:D:D:-:-:8:400:Regular:Ascended with Soul of Gwyn, Lord of Cinder at Giant Blacksmith
+Greatsword:Bastard Sword:105:0:0:0:100:60:10:40:40:38:0:0:0:0:16:10:0:0:C:C:-:-:6:200:Regular:Merchant: Blacksmith Andre (3,000 Souls)
+Greatsword:Claymore:103:0:0:0:100:60:10:40:40:38:0:0:0:0:16:10:0:0:C:C:-:-:6:200:Regular Thrust:Found in the Undead Burg on a corpse on the bridge guarded by Hellkite Wyvern.
+Greatsword:Man-Serpent Greatsword:110:0:0:0:100:60:10:40:40:38:0:0:0:0:24:0:0:0:B/A+15:-:-:-:6:200:Regular Thrust:Drops from: Man-Serpents.
+Greatsword:Flamberge:100:0:0:0:100:60:10:40:40:38:300:0:0:0:16:14:0:0:D:C/B+15:-:-:6:160:Slash:Merchant: Shiva of the East (10,000 Souls) Drops from: Serpent Mages.
+Greatsword:Crystal Greatsword:180:0:0:0:100:60:10:40:40:38:0:0:0:0:20:10:0:0:C:C:-:-:8:60:Regular:Merchant: Domhnall of Zena (6,000 Souls)
+Greatsword:Black Knight sword:220:0:0:0:100:60:10:40:40:38:0:0:0:0:20:18:0:0:C:E:-:-:8:300:Regular Thrust:Drops from: Black Knights
+Greatsword:Stone Greatsword:148:100:0:0:100:60:10:40:40:38:0:0:0:0:40:10:0:0:C:C:E:-:18:800:Regular Special:Merchant: Shiva of the East (15,000 Souls) Drops from: Great Stone Knights.
+Greatsword:Moonlight Greatsword:0:132:0:0:100:60:10:40:40:38:0:0:0:0:16:10:28:0:-:-:A/S+5:-:6:300:Regular Special:Obtained by cutting off Seath the Scaleless' tail.
+Greatsword:Obsidian Greatsword:320:0:0:0:100:60:10:40:40:38:0:0:0:0:20:16:0:0:-:-:-:-:8:350:Regular Special:Obtained by cutting off  Black Dragon Kalameet's tail. (AotA only)
+Ultra Greatsword:Greatsword:130:0:0:0:100:70:10:50:50:44:0:0:0:0:28:10:0:0:C:D:-:-:12:200:Regular Thrust:Merchant: Crestfallen Merchant (8,000 Souls) Drops from: The Berenike Knights (Mace or Sword). Found in Anor Londo to the left of the large painting leading to the Painted World of Ariamis.
+Ultra Greatsword:Zweihander:130:0:0:0:100:70:10:50:50:44:0:0:0:0:24:10:0:0:C:D:-:-:10:200:Reguar:Obtained from a corpse in the Graveyard area behind Firelink Shrine, in front of the large tombstone at the farthest end to the right of the stairs leading downwards, protected by two Skeletons and a Giant Skeleton, lying dormant.
+Ultra Greatsword:Demon Great Machete:133:0:0:0:100:70:10:50:50:44:0:0:0:0:40:0:0:0:B/A+15:-:-:-:18:600:Regular:Merchant: Shiva of the East (10,000 Souls) Drops from: Capra Demons (both the boss and regular enemies).
+Ultra Greatsword:Black Knight Greatsword:220:0:0:0:100:70:10:50:50:44:0:0:0:0:32:18:0:0:B:E:-:-:14:300:Regular Thrust:Drops from: Black Knights (Greatsword).
+Ultra Greatsword:Dragon Greatsword:390:0:0:0:100:70:10:50:50:44:0:0:0:0:50:10:0:0:-:-:-:-:24:400:Regular Special:Obtained by cutting off Everlasting Dragon's tail. (Note: This will not make him hostile, will not break the covenant, and will not prevent you from joining the covenant)
+Curved Sword:Scimitar:80:0:0:0:100:45:10:30:30:30:0:0:0:0:7:13:0:0:E:B/A+15:-:-:1.5:160:Slash:Starting equipment for Wanderer. Merchant: Undead Merchant (male) (600 Souls) Drops from: Skeletons (Sword and Shield).
+Curved Sword:Quelaag's Furysword:60:0:180:0:100:45:10:30:30:30:0:0:0:0:11:13:0:0:E:B:-:-:3.5:600:Slash:Ascended with Soul of Queelag at Giant Blacksmith.
+Curved Sword:Falchion:82:0:0:0:100:45:10:30:30:30:0:0:0:0:9:13:0:0:E:B/A+15:-:-:2.5:160:Slash:Drops from: Skeletons (Falchion). Found on a corpse in Blighttown poison swamp. Enchanted version drops from a Mimic in the Crystal Ember room in The Duke's Archives.
+Curved Sword:Shotel:82:0:0:0:100:45:10:30:30:30:0:0:0:0:9:14:0:0:E:C/B+15:-:-:2.5:120:Slash Special:Merchant: Shiva of the East (10,000 Souls) Found on the ledge behind Siegmeyer at the first rolling boulder area in Sen's Fortress.
+Curved Sword:Painting Guardian Sword:76:0:0:0:100:45:10:30:30:30:300:0:0:0:7:20:0:0:E:A:-:-:1.5:100:Slash Combo:Drops from: Painting Guardians.
+Curved Sword:Jagged Ghost Blade:155:0:0:0:100:45:10:30:30:30:300:0:0:0:7:0:0:0:E:-:-:-:1.5:100:Slash Thrust Combo:Drops from: Ghosts.
+Curved Sword:Gold Tracer:130:0:0:0:100:45:10:30:30:30:300:0:0:0:9:25:0:0:E:A:-:-:2:240:Slash:Can be obtained either by trading the Soul of Artorias to Lord's Blade Ciaran, or by killing her right away. (AotA only)
+Katana:Uchigatana:90:0:0:0:100:45:10:30:30:30:300:0:0:0:14:14:0:0:-:B/A+15:-:-:5:80:Slash Thrust:Drop from the Undead Merchant (male) Sold by Shiva of the East for 5,000 souls
+Katana:Chaos Blade:133:0:0:0:100:45:10:30:30:30:300:0:0:0:16:14:0:0:-:B:-:-:6:120:Slash:Ascended with Soul of Quelaag at the Giant Blacksmith
+Katana:Iaito:88:0:0:0:100:45:10:30:30:30:300:0:0:0:14:20:0:0:-:B:-:-:5:80:Slash:Found in Blighttown
+Katana:Washing Pole:90:0:0:0:100:45:10:30:30:30:300:0:0:0:20:16:0:0:D:D:-:-:8:60:Slash Thrust:Sold by Shiva of the East for 20,000 souls
+Curved Greatsword:Murakumo:113:0:0:0:100:60:10:40:40:36:0:0:0:0:28:13:0:0:E:B/A+15:-:-:12:180:Slash:Possible drop from Giant Skeleton Drop from Shiva of the East
+Curved Greatsword:Server:107:0:0:0:100:60:10:40:40:36:0:0:0:0:24:13:0:0:E:C/B+15:-:-:10:150:Slash:Found in the swamp of  Blighttown
+Curved Greatsword:Gravelord Sword:265:0:0:0:100:60:10:40:40:36:0:300:0:0:24:13:0:0:E:E:-:-:10:600:Slash Thrust:Obtained after joining the Gravelord Servant covenant
+Piercing sword:Mail Breaker:57:0:0:0:120:45:10:30:30:22:0:0:0:0:5:12:0:0:D:C/B+15:-:-:0.5:200:Thrust:Found in the lower Undead Burg, first thief attack
+Piercing sword:Rapier:73:0:0:0:110:45:10:30:30:22:0:0:0:0:7:12:0:0:D:C:-:-:1.5:150:Thrust:Sold by Undead Merchant (male) for 600 souls. Possible drop from Balder Knight
+Piercing sword:Estoc:75:0:0:0:100:45:10:30:30:22:0:0:0:0:10:12:0:0:D:C/B+15:-:-:3:150:Regular Thrust:Found in New Londo Ruins, shortly after exiting the elevator
+Piercing sword:Ricard's Rapier:70:0:0:0:100:45:10:30:30:22:0:0:0:0:8:20:0:0:E:B/A+15:-:-:2:100:Thrust Combo:Drop from Undead Prince Ricard
+Piercing sword:Velka's Rapier:62:104:0:0:100:45:10:30:30:22:0:0:0:110:8:16:16:0:E:C:B:-:2:130:Thrust Regular Combo:Found in the Painted World of Ariamis
+Axe:Hand Axe:80:0:0:0:100:55:10:40:40:36:0:0:0:0:8:8:0:0:C:D:-:-:2:250:Regular:Starting Equipment for Pyromancer Sold by Undead Merchant (male) for 450 souls
+Axe:Battle Axe:95:0:0:0:100:55:10:40:40:36:0:0:0:0:12:8:0:0:C:D:-:-:4:250:Regular:Starting Equipment for Bandit Sold by Blacksmith Andre for 1,000 souls Dropped by Undead Warrior (Battle Axe)
+Axe:Golem Axe:155:0:0:0:100:55:10:40:40:36:0:0:0:0:36:8:0:0:C:E:-:-:16:600:Regular Special:Ascended with Core of an Iron Golem at the Giant Blacksmith
+Axe:Butcher Knife:90:0:0:0:100:55:10:40:40:36:0:0:0:0:24:0:0:0:B/A+15:-:-:-:10:250:Regular:Drop from  Maneater Mildred
+Axe:Gargoyle Tail Axe:93:0:0:0:100:55:10:40:40:36:0:0:0:0:14:14:0:0:D:C/B+15:-:-:5:150:Regular:Obtained by cutting off a Gargoyle's tail (Bell Gargoyle or Anor Londo)
+Axe:Crescent Axe:115:115:0:0:100:55:10:40:40:36:0:0:120:0:18:12:0:16:D:D:-:B:7:180:Regular:Sold by Patches the Hyena for 10,000 souls. Drop from Patches the Hyena in the Tomb of Giants.
+Greataxe:Greataxe:140:0:0:0:100:55:10:40:40:38:0:0:0:0:32:8:0:0:C/B+15:E:-:-:14:230:Regular:Found in the Depths Sold by the Crestfallen Merchant for 8,000 souls Possible drop from Berenike Knight
+Greataxe:Demon's Greataxe:114:0:0:0:100:55:10:40:40:38:0:0:0:0:46:0:0:0:A:-:-:-:22:600:Regular:Possible drop from Minor Taurus Demon Sold by Shiva of The East for 10,000 souls
+Greataxe:Stone Greataxe:190:0:0:0:100:55:10:40:40:38:0:0:0:0:48:10:0:0:B:E:-:-:24:700:Regular:Possible drop from Stone Guardian
+Greataxe:Black Knight Greataxe:229:0:0:0:100:55:10:40:40:38:0:0:0:0:36:18:0:0:B:E:-:-:16:300:Regular:Possible drop from Black Knight (Greataxe)
+Greataxe:Dragon King Greataxe:380:0:0:0:100:55:10:40:40:38:0:0:0:0:50:8:0:0:-:-:-:-:24:400:Regular Special:Obtained by cutting off the Gaping Dragon's tail.
+Hammer:Club:87:0:0:0:100:45:10:30:30:30:0:0:0:0:10:0:0:0:A:-:-:-:3:250:Strike:Sold by Undead Merchant (male) for 150 souls Found in Anor Londo
+Hammer:Reinforced Club:97:0:0:0:100:45:10:30:30:30:300:0:0:0:12:0:0:0:C/B+15:-:-:-:4:100:Strike:Sold by Undead Merchant (male) for 350 souls
+Hammer:Blacksmith Giant Hammer:120:0:0:200:100:45:10:30:30:30:0:0:0:0:16:0:0:0:D:-:-:-:6:250:Strike:Drop from Giant Blacksmith
+Hammer:Mace:91:0:0:0:100:45:10:30:30:30:0:0:0:0:12:0:0:0:B/A+15:-:-:-:4:250:Strike:Starting equipment for Cleric Sold by Patches the Hyena for 3,000 souls Found in the Catacombs
+Hammer:Morning Star:83:0:0:0:100:45:10:30:30:30:300:0:0:0:11:0:0:0:C/B+15:-:-:-:4:180:Strike:Found in Firelink Shrine in a chest
+Hammer:Warpick:91:0:0:0:100:45:10:30:30:30:0:0:0:0:11:10:0:0:C:D:-:-:3.5:220:Thrust:Sold by Blacksmith Andre for 800 Souls
+Hammer:Pickaxe:89:0:0:0:100:45:10:30:30:30:0:0:0:0:14:0:0:0:B/A+15:-:-:-:5:250:Thrust:Possible drop from Infested Barbarian (Boulder)
+Hammer:Blacksmith Hammer:87:0:0:0:100:45:10:30:30:30:0:0:0:0:14:0:0:0:C/B+15:-:-:-:5:250:Strike:Drop from Blacksmith Andre
+Hammer:Hammer of Vamos:105:0:64:0:100:45:10:30:30:30:0:0:0:0:14:0:0:0:C:-:-:-:12:250:Strike:Drop from Blacksmith Vamos
+Greathammer:Smough's Hammer:300:0:0:0:100:50:10:35:35:32:0:0:0:0:58:0:0:0:D:-:-:-:28:600:Strike:Ascended with Soul of Smough at the Giant Blacksmith
+Greathammer:Large Club:120:0:0:0:100:50:10:35:35:32:0:180:0:0:26:0:0:0:A:-:-:-:11:250:Strike:Drop from Infested Barbarian
+Greathammer:Great Club:135:0:0:0:100:50:10:35:35:32:0:0:0:0:28:0:0:0:B/A+15:-:-:-:12:250:Strike:Found in Blighttown near Quelaag's Domain
+Greathammer:Demon's Great Hammer:138:0:0:0:100:50:10:35:35:32:0:0:0:0:46:0:0:0:B:-:-:-:22:600:Strike:Drop from the Asylum Demon in the first encounter (before obtaining equipment). This is also possible (and likely easier) in NG+. Trade Sack to Snuggly
+Greathammer:Grant:130:130:0:0:100:50:10:35:35:32:0:0:130:0:50:0:0:30:B:-:-:A:24:600:Strike Special:Drop from Paladin Leeroy
+Greathammer:Dragon Tooth:290:0:0:0:100:50:10:35:35:32:0:0:0:0:40:0:0:0:D:-:-:-:18:999:Strike:Found in Anor Londo in a hidden room
+Fist and Claw:Dragon Bone Fist:95:0:0:0:100:0:0:0:0:0:0:0:0:0:20:0:0:0:A/S+5:-:-:-:8:999:Strike:Ascended with Core of an Iron Golem  at the Giant Blacksmith
+Fist and Claw:Caestus:66:0:0:0:100:0:0:0:0:0:0:0:0:0:5:8:0:0:C:C:-:-:0.5:300:Strike:Sold by Blacksmith Andre for 200 souls
+Fist and Claw:Claws:72:0:0:0:100:0:0:0:0:0:300:0:0:0:6:14:0:0:E:B/A+15:-:-:1:150:Strike:Sold by Shiva of the East for 5,000 souls
+Fist and Claw:Dark Hand:200:0:0:0:100:80:80:80:80:30:0:0:0:130:0:0:0:0:-:-:-:-:0.5:999:Strike Special:Obtained after joining the Darkwraith covenant Possible drop from Darkwraith Knight
+Spear:Spear:80:0:0:0:100:40:10:30:30:26:0:0:0:0:11:10:0:0:D:C/B+15:-:-:3.5:180:Thrust:Sold by the Undead Merchant (male) for 600 souls Possible drop from Undead Soldiers Possible drop from Phalanx
+Spear:Winged Spear:86:0:0:0:100:40:10:30:30:26:0:0:0:0:13:15:0:0:E:C/B+15:-:-:4.5:140:Thrust:Found in Firelink Shrine in the graveyard area
+Spear:Partizan:80:0:0:0:100:40:10:30:30:26:0:0:0:0:13:12:0:0:D:C/B+15:-:-:4.5:160:Regular Thrust:Found in Darkroot Garden
+Spear:Four-pronged Plow:75:0:0:0:100:40:10:30:30:26:0:0:0:0:15:12:0:0:D:C/B+15:-:-:5.5:300:Thrust:Possible drop from Treant Gardener
+Spear:Dragonslayer Spear:90:0:0:0:100:40:10:30:30:26:0:0:0:0:24:24:0:0:C:B:-:B:10:300:Thrust Special:Ascended with Soul of Ornstein at the Giant Blacksmith
+Spear:Moonlight Butterfly Horn:0:110:0:0:100:40:10:30:30:26:0:0:0:0:12:0:14:0:-:-:B:-:4:160:Thrust:Ascended with Soul of the Moonlight Butterfly at the Giant Blacksmith
+Spear:Pike:86:0:0:0:100:40:10:30:30:26:0:0:0:0:24:10:0:0:D:C/B+15:-:-:10:180:Thrust:Sold by Blacksmith Andre for 2,000 souls
+Spear:Channeler's Trident:70:104:0:0:100:40:10:30:30:26:0:0:0:0:16:16:24:0:E:C:B:-:6:240:Thrust Special:Possible drop from Channeler
+Spear:Demon's Spear:100:0:0:120:100:40:10:30:30:26:0:0:0:0:12:10:0:0:C:C:-:-:4:400:Thrust:Possible drop from Bat Wing Demon Sold by Shiva of the East for 15,000 souls
+Spear:Silver Knight Spear:155:0:0:0:100:40:10:30:30:26:0:0:110:0:16:22:0:0:E:C:-:-:6:300:Regular Thrust:Possible drop from Silver Knight (Spear)
+Halberd:Halberd:110:0:0:0:100:40:10:30:30:26:0:0:0:0:16:12:0:0:D:D/C+15:-:-:6:200:Regular Thrust:Found in Undead Parish Found in Anor Londo
+Halberd:Lifehunt Scythe:165:0:0:0:100:40:10:30:30:26:500:0:0:0:16:14:0:0:E:B:-:-:6:100:Slash:Ascended with Soul of Priscilla at the  Giant Blacksmith.
+Halberd:Lucerne:110:0:0:0:100:40:10:30:30:26:0:0:0:0:15:12:0:0:D:D/C+15:-:-:5.5:200:Thrust:Found in the Catacombs
+Halberd:Scythe:110:0:0:0:100:40:10:30:30:26:0:0:0:0:14:12:0:0:E:C/B+15:-:-:5:200:Slash:Found in Sen's Fortress
+Halberd:Gargoyle's Halberd:115:0:0:0:100:40:10:30:30:26:0:0:0:0:16:12:0:0:D:D:-:-:6:200:Regular:Possible drop from Bell Gargoyles or Gargoyles 
+Halberd:Giant's Halberd:110:0:0:0:100:40:10:30:30:26:0:0:0:0:36:12:0:0:D:D:-:-:16:300:Regular Thrust:Drops from Giant Sentinels Sold by the Giant Blacksmith for 5,000 souls
+Halberd:Titanite Catch Pole:120:145:0:0:100:40:10:30:30:26:0:0:0:0:16:14:0:0:D:D:D:-:6:600:Regular:Possible drops from Titanite Demons
+Halberd:Black Knight Halberd:245:0:0:0:100:40:10:30:30:26:0:0:0:0:32:18:0:0:D:E:-:-:14:300:Slash:Possible drop from Black Knight (Halberd)
+Halberd:Great Scythe:100:0:0:0:100:40:10:30:30:26:300:0:0:0:14:14:0:0:E:B/A+15:-:-:5:130:Slash:Found in the Catacombs
+Whip:Whip:80:0:0:0:100:30:10:20:20:16:0:0:0:0:7:14:0:0:-:B/A+15:-:-:1.5:200:Regular:Found in Blighttown
+Whip:Notched Whip:76:0:0:0:100:30:10:20:20:16:300:0:0:0:8:16:0:0:-:B/A+15:-:-:2:200:Regular:Drop from NPC Phantom Xanthous King Jeremiah
+Whip:Guardian Tail:84:0:0:0:100:30:10:20:20:16:0:180:0:0:15:10:0:0:-:C:-:-:5:250:Regular:Sever the tail of the Sanctuary Guardian in Sanctuary Garden

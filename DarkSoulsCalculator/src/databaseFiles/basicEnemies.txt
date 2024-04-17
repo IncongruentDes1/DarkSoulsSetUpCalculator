@@ -1,0 +1,165 @@
+Type:Name:Location:HP:HP (NG+):Souls:Souls NG+:Respawn
+Hollows:Hollows:Northern Undead Asylum (tutorial):69: 186:20: 100:Yes
+Hollows:Hollows:Undead Burg:53: 137:20: 100:Yes
+Hollows:Hollows:Undead Parish:63: 159:20: 100:Yes
+Hollows:Hollows:Depths:74: 181:50: 250:Yes
+Hollows:Hollows:Northern Undead Asylum (upon returning):90: 208:100: 600:Yes
+Hollows:Torch Hollows:Northern Undead Asylum (after returning):90:182:100:400:Yes
+Hollows:Torch Hollows:Lower Undead Burg:53:137:20:100:Yes
+Hollows:Torch Hollows:Depths:74:181:50:250:Yes
+Hollows:Torch Hollows:Painted World of Ariamis:132:208:300:600:Yes
+Hollows:Hollow Warrior:Firelink Shrine:75:195:60:300:Yes
+Hollows:Hollow Warrior:Undead Burg:75:195:60:300:Yes
+Hollows:Undead Assassin:Lower Undead Burg:138: 345:100: 500:Yes
+Hollows:Undead Soldier (Sword):Undead Burg:85:85:80:80:Yes
+Hollows:Undead Soldier (Sword):Undead Parish:102:102:80:80:Yes
+Hollows:Undead Soldier (Sword):Northern Undead Asylum (Return):144:144:150:150:Yes
+Hollows:Undead Soldier (Sword):Firelink Shrine:85:85:80:80:Yes
+Hollows:Undead Soldier (Spear):Undead Burg:85:220:50:400:Yes
+Hollows:Undead Soldier (Spear):Undead Parish:102:225 :50:400 :Yes
+Hollows:Undead Soldier (Spear):Northern Undead Asylum (Return):144:293 :150:600 :Yes
+Hollows:Balder Knight (Side Sword):Undead Parish:129:324:160:800:Yes
+Hollows:Balder Knight (Rapier):Undead Parish:151:368:200:1000:Yes
+Hollows:Balder Knight (Balder Side sword and Rapier):Sen's Fortress:380:695:500:1500:Yes
+Hollows:Balder Knight (Light Crossbow):Sen's Fortress:134:245:500:1500:Yes
+Hollows:Undead Knight Archer:Sen's Fortress:130:245:500:1500:Yes
+Hollows:Engorged Hollow:Painted World of Ariamis:330:517:400:800:Yes
+Hollows:Infested Barbarian (Club) :Blighttown:883:1696:500:1500:Yes
+Hollows:Infested Barbarian (Boulder):Blighttown:883:1696:500:1500:Yes
+Hollows:Undead Crystal Soldier:The Duke's Archives:212:333:400:800:Yes
+Hollows:Undead Crystal Archer:The Duke's Archives:155:243:400:800:Yes
+Hollows:Crystal Knight:The Duke's Archives:742:1164:3000:6000:No
+Hollows:Undead Attack Dog:Lower Undead Burg:100:252:80:400:Yes
+Hollows:Undead Attack Dog:Depths:117:286:100:500:Yes
+Hollows:Undead Attack Dog:Depths (Butcher's Dog):126:288:150:600:No
+Hollows:Flaming Attack Dog:Blighttown:124:238:150:450:Yes
+Hollows:Infested Ghoul:Blighttown:365:701:150:450:Yes
+Hollows:Darkwraith Knight:New Londo Ruins (lower level):525:888:1200:3600:Yes
+Hollows:Necromancer:The Catacombs:411:835:1000:4000:No
+Giants:Great Stone Knight:Darkroot Garden:190:436:600:2400:Yes
+Giants:Giant:Gate Giant - found up a secret ladder in Sen's Fortress.:1726:3158:3000:9000:No
+Giants:Giant:Boulder Giant - found once you reach the rooftop of Sen's Fortress.:1726:3158:1000:3000:Yes
+Giants:Giant:Firebomb Giant - found up some stairs right before the boss fog gate in Sen's Fortress.:1726:3158:3000:9000:No
+Giants:Crystal Golem:Darkroot Basin:408:934:200:800:Yes
+Giants:Crystal Golem:The Duke's Archives (outside):680:1067:1200:2400:Yes
+Giants:Crystal Golem:Crystal Cave:680:1067:1200:2400:Yes
+Giants:Sentinel:Anor Londo:535:755:1500:4500:Yes
+Giants:Royal Sentinel:Anor Londo:755:1322:3000:9000:Yes
+AOTA Enemies:Treant Gardener:Royal Wood:320:502:200:400:Yes
+AOTA Enemies:Stone Guardian:Royal Wood:560:879:1000:2000:Yes
+AOTA Enemies:Wild Dog:Lower Undead Burg:100:252:80:400:Yes
+AOTA Enemies:Wild Dog:Depths:117:286:100:500:Yes
+AOTA Enemies:Wild Dog:Depths (Butcher's Dog):126:288:150:600:No
+AOTA Enemies:Oolacile Resident:Oolacile Township:380:596:400:800:Yes
+AOTA Enemies:Oolacile Resident:Chasm of the Abyss:380:596:400:800:Yes
+AOTA Enemies:Oolacile Sorceress:Oolacile Township:300:471:700:1400:Yes
+AOTA Enemies:Oolacile Sorceress:Chasm of the Abyss:300:471:700:1400:Yes
+AOTA Enemies:Chained Prisoner:Oolacile Township:1280:2009:1000:2000:Yes
+AOTA Enemies:Giant Humanity - Small:Chasm of the Abyss:200:314:6:10:Yes
+AOTA Enemies:Giant Humanity - Medium:Chasm of the Abyss:400:628:10:20:Yes
+AOTA Enemies:Giant Humanity - Large:Chasm of the Abyss:700:1099:20:40:Yes
+Skeletons:Skeleton:Firelink Shrine:185:402:50:200:Yes
+Skeletons:Skeleton - Falchion & Scimitar:The Catacombs:196:396:100:400:Yes
+Skeletons:Skeleton - Archer:The Catacombs:154:310:100:400:Yes
+Skeletons:Giant Skeleton:Firelink Shrine (Graveyard):268:588:500:2000:Yes
+Skeletons:Giant Skeleton:Catacombs:286:579:800:3200:Yes
+Skeletons:Giant Skeleton:Tomb of Giants:386:634:1000:2000:Yes
+Skeletons:Giant Skeleton Archer:Tomb of Giants:262:429:1000:2000:Yes
+Skeletons:Skeleton Beast:Tomb Of Giants:446:732:1500:3000:Yes
+Skeletons:Wheel Skeleton:The Catacombs:134:273:400:1600:Yes
+Skeletons:Wheel Skeleton:Painted World of Ariamis:196:310:800:1600:Yes
+Skeletons:Bone Tower:Tomb of Giants:291:479:250:500:Yes
+Skeletons:Skeleton Baby:Tomb of Giants:36:56:100:200:Yes
+Demons:Bat Wing Demon (Imps):Anor Londo:419:734:500:1500:Yes
+Demons:Minor Taurus Demon:Demon Ruins:900:1440:1200:2400:Yes
+Demons:Minor Capra Demon:Demon Ruins:589:996:800:2400:Yes
+Demons:Stone Demon:Demon Ruins:196:314:300:600:Yes
+Demons:Stone Demon:Lost Izalith:205:321:300:600:Yes
+Demons:Crow Demon (Harpies):Painted World of Ariamis:930:1460:1000:2000:Yes
+Demons:Bounding Demon of Izalith:Lost Izalith:1407:2209:2000:4000:No
+Other:Ghost:New Londo Ruins:231:469:200:800:Yes
+Other:Banshee:New Londo Ruins:290:590:400:1600:Yes
+Other:Phalanx:Painted World of Ariamis:335:525:500:1000:Yes
+Other:Wisp:The Catacombs:0:0:0:0:Yes
+Other:Wisp:New Londo Ruins (spawned by the Mass of Souls):0:0:0:0:Yes
+Other:Vile Maggot:Quelaag's Domain:68:131:18:45:Yes
+Other:Vile Maggot:Demon Ruins:68:131:18:45:Yes 
+Other:Egg Carrier:Quelaag's Domain:128:248:0:0:Yes
+Other:Egg Carrier:Demon Ruins:128:248:0:0:Yes
+Other:Chaos Eater:Lost Izalith:650:1020:1000:2000:Yes
+Other:Silver Knight:Anor Londo:464:812:1000:3000:Yes
+Other:Silver Knight:Anor Londo:464:812:1300:3900:Yes
+Other:Painting Guardian:Anor Londo:230:404:300:900:Yes
+Other:Clan of Forest Protectors - Bandit:Darkroot Garden:908:1534:1000:3000:Yes
+Other:Clan of Forest Protectors - Cleric:Darkroot Garden:767:1296:2000:6000:Yes
+Other:Clan of Forest Protectors - Sorcerer:Darkroot Garden:719:1215:2000:6000:Yes
+Other:Clan of Forest Protectors - Thief:Darkroot Garden:767:1296:2000:6000:Yes
+Other:Clan of Forest Protectors - Archer:Darkroot Garden:767:1296:5000:15000:No
+Other:Clan of Forest Protectors - Knight:Darkroot Garden:849:1434:3000:9000:No
+Other:Pisaca:The Duke's Archives (Prison Tower):350:549:800:1600:Yes
+Other:Pinwheel Servant:Tomb of Giants:506:829:1000:2000:Yes
+Wildlife:Basilisk:Depths:116:285:200:1000:Yes
+Wildlife:Basilisk:The Great Hollow and Ash Lake:193:316:400:800:Yes
+Wildlife:Tree Lizard:Darkroot Garden:169:388:60:240:Yes
+Wildlife:Ents:Darkroot Garden:193:443:100:400:Yes
+Wildlife:Ents:Darkroot Garden (forest area):283:479:100:375:Yes
+Wildlife:Frog-Ray:Darkroot Garden:162:370:80:320:Yes
+Wildlife:Small Mushroom People:Darkroot Garden:633:1070:50:150:Yes
+Wildlife:Small Mushroom People:The Great Hollow:662:1086:50:100:Yes
+Wildlife:Large Mushroom People:Darkroot Garden:2376:4016:1000:3000:Yes
+Wildlife:Large Mushroom People:Ash Lake:2483:4073:1000:2000:Yes
+Wildlife:Large Mushroom People:The Great Hollow:2483:4073:1000:2000:Yes
+Wildlife:Man-Eater Shell:Crystal Cave:740:1161:1000:2000:Yes
+Wildlife:Man-Eater Shell:Ash Lake:865:1358:200:400:Yes
+Wildlife:Small Rats:Firelink Shrine:80:207:20:100:Yes
+Wildlife:Small Rats:Undead Parish:96:239:20:100:Yes
+Wildlife:Small Rats:Depths:112:273:60:300:Yes
+Wildlife:Large Rats:Depths:692:1690:1000:5000:Yes
+Wildlife:Snow Rat:Painted World of Ariamis:237:372:400:800:Yes
+Wildlife:Drake:Valley of Drakes:1152:1948:1000:3000:Yes
+Wildlife:Giant Leech:Blighttown:124:238:100:300:Yes
+Wildlife:Giant Mosquito:Blighttown:50:96:30:90:Yes
+Wildlife:Cragspider:Blighttown:167:321:100:300:Yes
+Wildlife:Chaos Bug:Demon Ruins:79:126:30:60:Yes
+Wildlife:Chaos Bug:Lost Izalith:79:126:100:200:Yes
+Wildlife:Man Serpent:Sen's Fortress:430:786:500:1500:Yes
+Wildlife:Man Serpent:The Duke's Archives (jail):537:843:500:1000:Yes
+Wildlife:Serpent Mage:Sen's Fortress:290:530:500:1500:Yes
+Wildlife:Serpent Mage:The Duke's Archives (jail):362:569:2000:4000:Yes
+Wildlife:Burrowing Rockworm:Demon Ruins:616:986:900:1800:Yes
+Wildlife:Slime:Depths:143:349:100:500:Yes
+Wildlife:Minor Moonlight Butterfly:Crystal Cave:1255:1970:10,000:40,000:Yes
+Special/Non Respawning:Crystal Lizard:Ash Lake:unknown:unknown:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Undead Burg:unknown:unknown:1:2:Yes
+Special/Non Respawning:Crystal Lizard:The Catacombs:unknown:unknown:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Tomb of Giants:unknown:unknown:1:2:Yes
+Special/Non Respawning:Crystal Lizard:The Great Hollow:unknown:unknown:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Darkroot Garden:unknown:unknown:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Lost Izalith:unknown:unknown:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Crystal Cave:unknown:unknown:1:2:Yes
+Special/Non Respawning:Crystal Lizard:The Duke's Archives:unknown:unknown:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Royal Wood:unknown:unknown:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Oolacile Township:unknown:unknown:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Chasm of the Abyss:unknown:unknown:1:2:Yes
+Special/Non Respawning:Parasitic Wall Hugger:Blighttown:593:1140:1000:3000:No
+Special/Non Respawning:Oscar of Astora (Hollowed):Northern Undead Asylum and :793:1522:1000:3000:No
+Special/Non Respawning:Black Knight:Undead Burg:497:1212:800:4000:No
+Special/Non Respawning:Black Knight:Undead Parish:532:1219:800:3200:No
+Special/Non Respawning:Black Knight:Darkroot Basin:603:1225:1800:7200:No
+Special/Non Respawning:Black Knight:The Catacombs:710:1299:1200:3600:No
+Special/Non Respawning:Black Knight:Northern Undead Asylum:745:1304:1200:3600:No
+Special/Non Respawning:Black Knight:Tomb of Giants:887:1393:1200:2400:No
+Special/Non Respawning:Black Knight:Kiln of the First Flame:958:1476:2000:4000:Yes
+Special/Non Respawning:Blowdart Sniper:Blighttown:93:179:500:1500:No
+Special/Non Respawning:Darkmoon Soldiers - Balder Knight:Anor Londo:767:1342:5000:15000:No
+Special/Non Respawning:Darkmoon Soldiers - Berenike Knight:Anor Londo:821:1436:5000:15000:No
+Special/Non Respawning:Mass of Souls:New Londo Ruins (Lower):2059:3480:5000:15000:No
+Special/Non Respawning:Possessed Tree:Darkroot Garden:540:1236:180:720:No
+Special/Non Respawning:Great Feline:Darkroot Garden:1,465:2,476:2000:6000:No
+Special/Non Respawning:Mimic:Sen's Fortress:992:1,815:1000:3000:No
+Special/Non Respawning:Mimic:Anor Londo:1,041:1,822:2000:6000:No
+Special/Non Respawning:Mimic:The Duke's Archives:1,240:1,946:3000:6000:No
+Special/Non Respawning:Mimic:Oolacile Township:1240:1946:3000:6000:No
+Special/Non Respawning:The Channeler:Undead Parish:186:465:1000:5000:No
+Special/Non Respawning:The Channeler:Depths:186:465:1000:5000:No
+Special/Non Respawning:The Channeler:The Duke's Archives:387:608:800:1600:Yes

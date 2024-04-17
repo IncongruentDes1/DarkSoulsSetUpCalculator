@@ -1,0 +1,44 @@
+Type:Name:Phy-Atk:Mag-Atk:Fire-Atk:Light-Atk:Critical:Phy-Def:Mag-Def:Fire-Def:Light-Def:Crit-Def:Streng-Req:Dex-Req:Int-Req:Faith-Req:Str-Scale:Dex-Scal:Int-Scal:Faith-Scale:Durability:Weight:Deflection:ParrySpeed:Aquired From
+Small Shield:Warrior's Round Shield:50:0:0:0:100:85:65:30:65:40:6:0:0:0:D:-:-:-:180:1:Light:Fast:Merchant: Undead Merchant (male) (800 Souls)
+Small Shield:Caduceus Round Shield:50:0:0:0:100:85:65:30:65:40:6:0:0:0:D:-:-:-:180:1:Light:Fast:Found at the graveyard near Firelink Shrine.
+Small Shield:Effigy Shield:60:0:0:0:100:90:40:70:90:45:10:0:0:16:D:-:-:-:180:3:Light:Normal:Found in Tomb of the Giants, on a path close to the second bonfire.
+Small Shield:Red and White Round Shield:50:0:0:0:100:85:65:30:65:40:6:0:0:0:D:-:-:-:180:1:Light:Fast:Drops from: Skeletons (Sword and Shield).
+Small Shield:Cracked Round Shield:46:0:0:0:100:65:55:10:45:30:6:0:0:0:D:-:-:-:60:1:None:Fast:Starting equipment for Pyromancer. Drops from: Hollow Warriors (Sword and Shield).
+Small Shield:Plank Shield:52:0:0:0:100:75:40:20:55:45:7:0:0:0:D:-:-:-:120:1.5:Light:Fast:Starting equipment for Deprived. Found in Blighttown just before the hidden entrance to The Great Hollow.
+Small Shield:Small Leather Shield:40:0:0:0:100:80:35:60:60:40:5:0:0:0:D:-:-:-:200:0.5:Light:Fast:Starting equipment for Sorcerer. Merchant: Undead Merchant (male) (600 Souls)
+Small Shield:Leather Shield:42:0:0:0:100:85:35:60:60:45:6:0:0:0:D:-:-:-:200:1:Light:Fast:Starting equipment for Wanderer. Merchant: Undead Merchant (male) (800 Souls)
+Small Shield:Buckler:55:0:0:0:100:76:32:65:53:40:7:13:0:0:D:-:-:-:150:1.5:Light:Special:Merchant: Undead Merchant (male) (800 Souls) Drops from: Balder Knights (Sword and Buckler).
+Small Shield:Target Shield:56:0:0:0:100:78:30:65:50:45:8:11:0:0:D:-:-:-:150:2:Light:Special:Starting equipment for Thief. Found inside a small room in Lower Undead Burg just before the Capra Demon boss.
+Small Shield:Crystal Ring Shield:0:100:0:0:100:70:90:70:40:40:10:0:0:0:-:-:-:-:120:3:Light:None:Ascended with Soul of the Moonlight Butterfly at Giant Blacksmith. *Parry move is exchanged for a Projectile attack.
+Standard Shield:East-West Shield:52:0:0:0:100:88:40:30:65:44:6:0:0:0:D:-:-:-:160:1:Medium:Fast:Starter Item: Initial Equipment for Cleric. Purchase: Undead Merchant for 400 souls
+Standard Shield:Wooden Shield:54:0:0:0:100:93:40:30:65:52:7:0:0:0:D:-:-:-:160:1.5:Medium:Fast:Location: On a corpse behind a door just before the first bonfire in the Undead Burg.
+Standard Shield:Large Leather Shield:46:0:0:0:100:91:35:60:60:52:7:0:0:0:D:-:-:-:200:1.5:Medium:Fast:Starter Item: Intial Equipment for Hunter. Purchase: Andre of Astora for 800 souls. Drops: Phalanx (A)
+Standard Shield:Heater Shield:60:0:0:0:100:100:30:70:50:55:8:0:0:0:D:-:-:-:250:2:Medium:Fast:Starter Item: Initial Equipment for Warrior. Purchase: Undead Merchant for 1000 Souls.
+Standard Shield:Tower Kite Shield:64:0:0:0:100:100:30:70:50:58:10:0:0:0:D:-:-:-:250:3:Medium:Normal:Starter Item: Initial Equipment for Knight. Purchase: Andre of Astora for 1000 souls.
+Standard Shield:Caduceus Kite Shield:64:0:0:0:100:100:30:70:50:58:10:0:0:0:D:-:-:-:250:3:Medium:Normal:Purchase: Andre of Astora for 1000 souls. Drops: Undead Crystal Soldier (A)
+Standard Shield: Hollow Soldier Shield:66:0:0:0:100:100:30:65:50:56:11:0:0:0:D:-:-:-:250:3.5:Medium:Normal:Drops: Undead Soldier(Spear, Sword) (A)
+Standard Shield:Knight Shield:68:0:0:0:100:100:30:60:40:56:10:0:0:0:D:-:-:-:200:5.5:Medium:Normal:Location: On a corpse in the Undead Parish just past the Fog Gate. Guarded by an Elite Undead Knight.
+Standard Shield:Sanctus:62:0:0:0:100:95:40:70:50:51:10:0:0:18:D:-:-:-:410:3:Medium:Normal:Drops: Paladin Leeroy. Restores 2 HP every 2 seconds.
+Standard Shield:Balder Shield:66:0:0:0:100:100:20:60:50:63:12:0:0:0:D:-:-:-:220:4:Medium:Normal:Purchase: Crestfallen Merchant for 4000 souls. Drops: Elite Undead Guard (Rapier, Sword) (A), Elite Undead Guard [Sens' Fortress] (Rapier, Archer) (A)
+Standard Shield:Spider Shield:62:0:0:0:100:100:30:72:48:56:10:0:0:0:D:-:-:-:230:3:Medium:Normal:Starter Item: Initial Equipment for Bandit. Locations: Valley of Drakes, on the bridge to lower New Londo or above the Giant Rat in the Depths, drop down the hole behind the first Butcher. Locations: Valley of Drakes, on the bridge to lower New Londo or above the Giant Rat in the Depths, drop down the hole behind the first Butcher. Protects from Poison and Toxin buildup when used to block attacks.
+Standard Shield:Crass Crest Shield:62:0:0:0:100:95:42:70:50:51:10:0:0:0:D:-:-:-:200:3:Medium:Normal:Location: Darkroot Basin, cliff-side path, near cave to Valley of Drakes. On a corpse guarded by a Black Knight. Speeds up stamina regeneration, also when shield is on back.
+Standard Shield:Bloodshield:62:0:0:0:100:100:30:70:50:53:10:0:0:0:D:-:-:-:240:3:Medium:Normal:Location: In the Painted World of Ariamis on the bridge near the Zombie Dragon. Raises Bleed/Poison/Curse resist by 25%, also when shield is on back.
+Standard Shield:Iron Round Shield:68:0:0:0:100:100:30:72:46:52:14:0:0:0:D:-:-:-:280:5:Heavy:Normal:Drop: Shiva of the East. The only heavy deflection shield that can also parry.
+Standard Shield:Sunlight Shield:64:0:0:0:100:100:30:75:50:60:12:0:0:0:D:-:-:-:280:4:Medium:Normal:Drops: Solaire of Astora.
+Standard Shield:Pierce Shield:82:0:0:0:100:95:30:70:34:49:11:14:0:0:D:C:-:-:180:3.5:Light:Bash:Gift: Find Siegmeyer of Catarina in the Blighttown swamp near a group of slugs and give him 3 Purple Moss. *Parry is replaced by an overhead shield bash.
+Standard Shield:Spiked Shield:78:0:0:0:100:90:28:69:40:48:10:12:0:0:D:C:-:-:160:3:Light:Bash:Drops: Kirk, Knight of Thorns. *Parry is replaced by an overhead shield bash.  300 Bleeding Damage.
+Standard Shield:Gargoyle's Shield:62:0:0:0:100:85:40:75:70:56:12:0:0:0:D:-:-:-:300:4:Medium:Normal:Drops: Bell Gargoyle Boss (A), Gargoyle (A)
+Standard Shield:Crystal Shield:70:0:0:0:100:100:60:80:80:60:14:0:0:0:D:-:-:-:250:5:Medium:Bash:Purchase: Domhnall of Zena for 4000 souls. *Parry is replaced by an overhead shield bash. Cannot be repaired.
+Standard Shield:Crest Shield:62:0:0:0:100:100:80:55:45:55:10:0:0:0:D:-:-:-:300:3:Medium:Normal:Drops: Knight of Astora, Oscar (Hollow)
+Standard Shield:Dragon Crest Shield:62:0:0:0:100:100:20:85:45:55:10:0:0:0:D:-:-:-:300:3:Medium:Normal:Location: In the Valley of Drakes near the Zombie Dragon.
+Standard Shield:Silver Knight Shield:66:0:0:0:100:100:40:75:65:64:14:0:0:0:D:-:-:-:250:5:Medium:Normal:Drops: Silver Knight (Spear, Sword) (A)
+Standard Shield:Black Knight Shield:68:0:0:0:100:100:25:95:65:62:16:0:0:0:D:-:-:-:250:6:Medium:Normal:Drop: Black Knight (Axe, Greatsword, Spear, Sword) (A)
+GreatShield:Greatshield of Artorias:88:0:0:0:100:100:50:80:40:88:34:0:0:0:D:-:-:-:600:16:Heavy:Bash:Ascended: any Shield +10 and Soul of Sif, at the Giant Blacksmith in Anor Londo. *Attacks blocked with the Greatshield of Artorias do not cause any status effect
+GreatShield:Eagle Shield:62:0:0:0:100:95:55:45:75:70:16:0:0:0:D:-:-:-:300:13:Heavy:Bash:Location: Blighttown near the bonfire on the upper level, a corpse perched on a support beam. Note: Physical damage reduction changed from 100% to 95% in PTDE
+GreatShield:Tower Shield:80:0:0:0:100:100:40:75:50:72:30:0:0:0:D:-:-:-:300:13:Heavy:Bash:Drop: Berenike Knights. (Undead Parish curch, Sen's Fortress and Painted World of Ariamis). Purchase: Can be purchased from the Crestfallen Merchant for 8,000 souls.
+GreatShield:Black Iron Greatshield:80:0:0:0:100:100:40:90:50:71:34:0:0:0:D:-:-:-:230:16:Heavy:Bash:Location: Found along with matching armor, on a corpse on the bottom floor of the Anor Londo cathedral, near the painting.
+GreatShield:Giant Shield:80:0:0:0:100:100:60:75:75:68:36:0:0:0:D:-:-:-:300:18:Heavy:Bash:Drops: Giants Guards in Anor Londo. Purchase: purchased from the Giant Blacksmith in Anor Londo for 10,000 souls.
+GreatShield:Bonewheel Shield:80:0:0:0:100:90:30:30:51:66:30:0:0:0:D:-:-:-:200:12:Heavy:Spin:Drops: Bonewheel Skeletons in The Catacombs and Painted World of Ariamis (rare). *Bash is replaced by a 3-hit wheel spin attack.
+GreatShield:Stone Greatshield:82:0:0:0:100:100:80:75:65:80:38:0:0:0:D:-:-:-:400:20:Heavy:Bash:Drop: Stone Knights in Darkroot Forest (rare).
+GreatShield:Havel's Greatshield:84:0:0:0:100:100:90:80:80:84:50:0:0:0:D:-:-:-:500:26:Heavy:Spell:Location: in a chest behind an illusionary wall in Anor Londo. *Bash is replaced by a Stoneskin spell that temporarily increases poise and costs 300 durability.
+GreatShield:Cleansing Greatshield:75:0:0:0:0:80:80:80:70:77:31:0:0:0:D:-:-:-:300:14.5:Heavy:Bash:Location: Rescue Sif from the Chasm of the Abyss.

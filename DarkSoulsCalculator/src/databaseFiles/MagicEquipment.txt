@@ -1,0 +1,21 @@
+Weapon Class:Name:Atk-PHYS:Atk-Mag:Atk-Fire:Atk-Light:Atk-Crit:Def-Phys:Def-Mag:Def-Fire:Def-Light:Def-Crit:Str-Req:Dex-Req:Int-Req:Faith-Req:Str-Scal:Dex-Scal:Int-Scal:Fai-Scal:Weight:Durability:Atk Type:Acquired From
+Catalyst:Sorcerer's Catalyst:40:0:0:0:100:26:8:20:20:16:6:0:10:0:E:-:A:-:2:90:Strike:Starting equipment for Sorcerer Sold by Griggs of Vinheim for 500 souls Sold by Blacksmith Rickert of Vinheim for 500 souls
+Catalyst:Manus Catalyst:190:0:0:0:100:26:8:20:20:16:14:0:14:0:B:-:S:-:5:60:Strike:Ascended with Soul of Manus at the Giant Blacksmith
+Catalyst:Tin Darkmoon Catalyst:44:0:0:0:100:26:8:20:20:16:4:0:0:16:E:-:-:A:1:60:Strike:Ascended with Soul of Gwyndolin at the Giant Blacksmith
+Catalyst:Beatrice's Catalyst:40:0:0:0:100:26:8:20:20:16:6:0:10:0:E:-:A:-:2:90:Strike:Found in Valley of Drakes
+Catalyst:Logan's Catalyst:26:0:0:0:100:26:8:20:20:16:6:0:24:0:E:-:S:-:2:90:Strike:Found in The Duke's Archives
+Catalyst:Oolacile Ivory Catalyst:24:0:0:0:100:26:8:20:20:16:3:0:12:0:E:-:C:-:0.5:30:Strike:Sold by Dusk of Oolacile for 1,000 souls
+Catalyst:Oolacile Catalyst:40:0:0:0:100:26:8:20:20:16:6:0:10:0:E:-:C:-:2:55:Strike:Possible drop from Oolacile Sorceress
+Catalyst:Demon's Catalyst:110:0:170:0:100:26:8:20:20:16:12:10:10:0:D:D:B:-:4:300:Thrust:Drop from Demon Firesage
+Catalyst:Izalith Catalyst:40:0:0:0:100:26:8:20:20:16:6:0:14:0:E:-:A:-:2:300:Strike:Drop from the Daughter of Chaos (Pyromancer) in Lost Izalith
+Catalyst:Tin Banishment Catalyst:145:0:0:0:100:26:8:20:20:16:10:10:12:0:E:D:A:-:3:160:Thrust:Found in Blighttown
+Catalyst:Tin Crystallization Catalyst:240:0:0:0:100:26:8:20:20:16:7:0:32:0:E:-:S:-:2.5:90:Thrust:Drop from Big Hat Logan (hollow)
+Flame:Pyromancy Flame:0:100:40:0:0:0:0:0:0:0:4:0:0:0:-:-:-:-:0:30:Strike:Starting equpiment for Pyromancer Obtained from Laurentius of the Great Swamp after saving him from the Depth Obtained from Eingyi if you have no flame (must have 11 intelligence et have talked to him at least once while infected with an egg. )
+Flame:Pyromancy Flame (upgraded):0:230:60:0:0:0:0:0:0:0:4:0:0:0:-:-:S:-:0:30:Strike:Ascended with normal Pyromancy Flame +15 at  Quelana of Izalith
+Talisman:Talisman:14:0:0:0:100:26:8:20:20:16:4:0:0:10:-:-:-:B:0.3:50:Strike:Found in Firelink Shrine in a chest Sold by Petrus of Thorolund for 1,000 souls
+Talisman:Canvas Talisman:14:0:0:0:100:26:8:20:20:16:4:0:0:14:-:-:-:A:0.3:50:Strike:Starting equipment for Cleric Sold by Patches the Hyena for 1,000 souls
+Talisman:Thorolund Talisman:14:0:0:0:100:26:8:20:20:16:4:0:0:10:-:-:-:D:0.3:50:Strike:Sold by Petrus of Thorolund for 5,000 souls
+Talisman:Ivory Talisman:14:0:0:0:100:26:8:20:20:16:4:0:0:16:-:-:-:A:0.3:50:Strike:Drop from Reah of Thorolund (hollow) in The Duke's Archives Drop from Reah of Thorolund at Undead Parish church before she dies Drop from Petrus of Thorolund after Reah of Thorolund is dead.
+Talisman:Sunlight Talisman:14:0:0:0:100:26:8:20:20:16:4:0:0:14:-:-:-:A:0.3:50:Strike:Drop from Solaire of Astora
+Talisman:Darkmoon Talisman:14:0:0:0:100:26:8:20:20:16:4:0:0:24:-:-:-:A:0.3:50:Strike:Obtained after reaching Rank 2 in the Blade of the Darkmoon covenant
+Talisman:Velka's Talisman:14:0:0:0:100:26:8:20:20:16:4:0:16:0:-:-:A:-:0.3:50:Strike:Sold by Oswald of Carim for 5,000 souls
