@@ -17,7 +17,7 @@ public class Main {
 	
 	public static ArrayList<Equipment> equipmentData(){
 		
-	       String filePath = "physicalWeapons.txt";
+	        String filePath = "physicalWeapons.txt";
 	        File file = new File(filePath);
 
 	        try (Scanner scanner = new Scanner(file)) {
