@@ -14,7 +14,7 @@ public class Main {
 	
 	public static ArrayList<Equipment> equipmentData(){
 		
-	        String filePath = "physicalWeapons.txt";
+	        String filePath = "C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\physicalWeapons.txt";
 	        File file = new File(filePath);
 
 	        try (Scanner scanner = new Scanner(file)) {
