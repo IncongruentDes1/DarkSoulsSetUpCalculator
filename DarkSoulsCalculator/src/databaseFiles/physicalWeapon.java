@@ -17,6 +17,7 @@ public class physicalWeapon extends Equipment{
 	Integer physicalDefense;
 	Integer magicDefense;
 	Integer fireDefense;
+	Integer lightningDefense;
 	Integer criticalDefense;
 	Integer bleedBonus;
 	Integer poisonBonus;
@@ -41,7 +42,8 @@ public class physicalWeapon extends Equipment{
 	String information;
 	
 	public physicalWeapon(String Class, String Name, Integer PhysicalAttack, Integer MagicAttack, Integer FireAttack, Integer LightningAttack,
-			Integer CriticalAttackBonus, Integer PhysicalDefense, Integer MagicDefense, Integer FireDefense, Integer CriticalDefense,
+			Integer CriticalAttackBonus, Integer PhysicalDefense, Integer MagicDefense, Integer FireDefense, Integer LightningDefense,
+			Integer CriticalDefense,
 			Integer BleedBonus, Integer PoisonBonus, Integer DivineBonus, Integer OccultBonus, Integer StrengthReq, Integer DexReq,
 			Integer IntReq, Integer FaithReq, String StrengthScaling, String DexScaling, String IntScaling, String FaithScaling,
 			Float Weight, Float Durability, String AttackType, String Information) {
@@ -57,6 +59,7 @@ public class physicalWeapon extends Equipment{
 			physicalDefense = PhysicalDefense;
 			magicDefense = MagicDefense;
 			fireDefense = FireDefense;
+			lightningDefense = FireDefense;
 			criticalDefense = CriticalDefense;
 			bleedBonus = BleedBonus;
 			poisonBonus = PoisonBonus;
@@ -80,8 +83,8 @@ public class physicalWeapon extends Equipment{
 	public String toString() {
 		String fullPrintOut = "";
 		
-		fullPrintOut += "Class: " + type;
-		fullPrintOut += "Name: " + name;
+		fullPrintOut += "Class: " + type + "\n";
+		fullPrintOut += "Name: " + name+ "\n";
 		
 		fullPrintOut += "Physical Attack: " + physicalAttack + "\n";
 		fullPrintOut += "Magic Attack: " + magicAttack + "\n";
@@ -114,9 +117,6 @@ public class physicalWeapon extends Equipment{
 		fullPrintOut += "Durability: " + durability + "\n";
 		fullPrintOut += "Attack Type: " + attackType + "\n";
 		fullPrintOut += "Information: " + information + "\n";
-
-		// Print the full output
-		System.out.println(fullPrintOut);
 		
 		return fullPrintOut;
 	}
