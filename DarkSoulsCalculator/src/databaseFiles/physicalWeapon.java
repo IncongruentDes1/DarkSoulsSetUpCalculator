@@ -75,7 +75,7 @@ public class physicalWeapon extends Equipment{
 			faithScaling = FaithScaling;
 			weight = Weight;
 			durability = Durability;
-			attackType = AttackType;
+		    attackType = AttackType;
 			information = Information;
 			
 	}

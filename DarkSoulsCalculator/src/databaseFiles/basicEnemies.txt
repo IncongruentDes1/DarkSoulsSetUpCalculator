@@ -1,23 +1,23 @@
 Type:Name:Location:HP:HP (NG+):Souls:Souls NG+:Respawn
-Hollows:Hollows:Northern Undead Asylum (tutorial):69: 186:20: 100:Yes
-Hollows:Hollows:Undead Burg:53: 137:20: 100:Yes
-Hollows:Hollows:Undead Parish:63: 159:20: 100:Yes
-Hollows:Hollows:Depths:74: 181:50: 250:Yes
-Hollows:Hollows:Northern Undead Asylum (upon returning):90: 208:100: 600:Yes
+Hollows:Hollows:Northern Undead Asylum (tutorial):69:186:20:100:Yes
+Hollows:Hollows:Undead Burg:53:137:20:100:Yes
+Hollows:Hollows:Undead Parish:63:159:20:100:Yes
+Hollows:Hollows:Depths:74:181:50:250:Yes
+Hollows:Hollows:Northern Undead Asylum (upon returning):90:208:100:600:Yes
 Hollows:Torch Hollows:Northern Undead Asylum (after returning):90:182:100:400:Yes
 Hollows:Torch Hollows:Lower Undead Burg:53:137:20:100:Yes
 Hollows:Torch Hollows:Depths:74:181:50:250:Yes
 Hollows:Torch Hollows:Painted World of Ariamis:132:208:300:600:Yes
 Hollows:Hollow Warrior:Firelink Shrine:75:195:60:300:Yes
 Hollows:Hollow Warrior:Undead Burg:75:195:60:300:Yes
-Hollows:Undead Assassin:Lower Undead Burg:138: 345:100: 500:Yes
+Hollows:Undead Assassin:Lower Undead Burg:138:345:100:500:Yes
 Hollows:Undead Soldier (Sword):Undead Burg:85:85:80:80:Yes
 Hollows:Undead Soldier (Sword):Undead Parish:102:102:80:80:Yes
 Hollows:Undead Soldier (Sword):Northern Undead Asylum (Return):144:144:150:150:Yes
 Hollows:Undead Soldier (Sword):Firelink Shrine:85:85:80:80:Yes
 Hollows:Undead Soldier (Spear):Undead Burg:85:220:50:400:Yes
-Hollows:Undead Soldier (Spear):Undead Parish:102:225 :50:400 :Yes
-Hollows:Undead Soldier (Spear):Northern Undead Asylum (Return):144:293 :150:600 :Yes
+Hollows:Undead Soldier (Spear):Undead Parish:102:225:50:400:Yes
+Hollows:Undead Soldier (Spear):Northern Undead Asylum (Return):144:293:150:600:Yes
 Hollows:Balder Knight (Side Sword):Undead Parish:129:324:160:800:Yes
 Hollows:Balder Knight (Rapier):Undead Parish:151:368:200:1000:Yes
 Hollows:Balder Knight (Balder Side sword and Rapier):Sen's Fortress:380:695:500:1500:Yes
@@ -128,21 +128,21 @@ Wildlife:Serpent Mage:Sen's Fortress:290:530:500:1500:Yes
 Wildlife:Serpent Mage:The Duke's Archives (jail):362:569:2000:4000:Yes
 Wildlife:Burrowing Rockworm:Demon Ruins:616:986:900:1800:Yes
 Wildlife:Slime:Depths:143:349:100:500:Yes
-Wildlife:Minor Moonlight Butterfly:Crystal Cave:1255:1970:10,000:40,000:Yes
-Special/Non Respawning:Crystal Lizard:Ash Lake:unknown:unknown:1:2:Yes
-Special/Non Respawning:Crystal Lizard:Undead Burg:unknown:unknown:1:2:Yes
-Special/Non Respawning:Crystal Lizard:The Catacombs:unknown:unknown:1:2:Yes
-Special/Non Respawning:Crystal Lizard:Tomb of Giants:unknown:unknown:1:2:Yes
-Special/Non Respawning:Crystal Lizard:The Great Hollow:unknown:unknown:1:2:Yes
-Special/Non Respawning:Crystal Lizard:Darkroot Garden:unknown:unknown:1:2:Yes
-Special/Non Respawning:Crystal Lizard:Lost Izalith:unknown:unknown:1:2:Yes
-Special/Non Respawning:Crystal Lizard:Crystal Cave:unknown:unknown:1:2:Yes
-Special/Non Respawning:Crystal Lizard:The Duke's Archives:unknown:unknown:1:2:Yes
-Special/Non Respawning:Crystal Lizard:Royal Wood:unknown:unknown:1:2:Yes
-Special/Non Respawning:Crystal Lizard:Oolacile Township:unknown:unknown:1:2:Yes
-Special/Non Respawning:Crystal Lizard:Chasm of the Abyss:unknown:unknown:1:2:Yes
+Wildlife:Minor Moonlight Butterfly:Crystal Cave:1255:1970:10000:40000:Yes
+Special/Non Respawning:Crystal Lizard:Ash Lake:0:0:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Undead Burg:0:0:1:2:Yes
+Special/Non Respawning:Crystal Lizard:The Catacombs:0:0:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Tomb of Giants:0:0:1:2:Yes
+Special/Non Respawning:Crystal Lizard:The Great Hollow:0:0:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Darkroot Garden:0:0:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Lost Izalith:0:0:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Crystal Cave:0:0:1:2:Yes
+Special/Non Respawning:Crystal Lizard:The Duke's Archives:0:0:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Royal Wood:0:0:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Oolacile Township:0:0:1:2:Yes
+Special/Non Respawning:Crystal Lizard:Chasm of the Abyss:0:0:1:2:Yes
 Special/Non Respawning:Parasitic Wall Hugger:Blighttown:593:1140:1000:3000:No
-Special/Non Respawning:Oscar of Astora (Hollowed):Northern Undead Asylum and :793:1522:1000:3000:No
+Special/Non Respawning:Oscar of Astora (Hollowed):Northern Undead Asylum and:793:1522:1000:3000:No
 Special/Non Respawning:Black Knight:Undead Burg:497:1212:800:4000:No
 Special/Non Respawning:Black Knight:Undead Parish:532:1219:800:3200:No
 Special/Non Respawning:Black Knight:Darkroot Basin:603:1225:1800:7200:No
@@ -155,11 +155,34 @@ Special/Non Respawning:Darkmoon Soldiers - Balder Knight:Anor Londo:767:1342:500
 Special/Non Respawning:Darkmoon Soldiers - Berenike Knight:Anor Londo:821:1436:5000:15000:No
 Special/Non Respawning:Mass of Souls:New Londo Ruins (Lower):2059:3480:5000:15000:No
 Special/Non Respawning:Possessed Tree:Darkroot Garden:540:1236:180:720:No
-Special/Non Respawning:Great Feline:Darkroot Garden:1,465:2,476:2000:6000:No
-Special/Non Respawning:Mimic:Sen's Fortress:992:1,815:1000:3000:No
-Special/Non Respawning:Mimic:Anor Londo:1,041:1,822:2000:6000:No
-Special/Non Respawning:Mimic:The Duke's Archives:1,240:1,946:3000:6000:No
+Special/Non Respawning:Great Feline:Darkroot Garden:1465:2476:2000:6000:No
+Special/Non Respawning:Mimic:Sen's Fortress:992:1815:1000:3000:No
+Special/Non Respawning:Mimic:Anor Londo:1041:1822:2000:6000:No
+Special/Non Respawning:Mimic:The Duke's Archives:1240:1946:3000:6000:No
 Special/Non Respawning:Mimic:Oolacile Township:1240:1946:3000:6000:No
 Special/Non Respawning:The Channeler:Undead Parish:186:465:1000:5000:No
 Special/Non Respawning:The Channeler:Depths:186:465:1000:5000:No
 Special/Non Respawning:The Channeler:The Duke's Archives:387:608:800:1600:Yes
+Special/Non Respawning:Black Hydra:Ash Lake:3864:6336:10000:20000:No
+Special/Non Respawning:Butcher:The Depths:671:1639:1000:5000:No
+Special/Non Respawning:Fang Boar - Undead Parish:Undead Parish:307:768:750:3750:No
+Special/Non Respawning:Fang Boar - Anor Londo:Anor Londo:640:1004:1000:2000:No
+Special/Non Respawning:Giant Cat:Darkroot Garden:1465:2476:2000:6000:No
+Special/Non Respawning:Giant Rat:Depths:693:1690:1000:5000:No
+Special/Non Respawning:Golden Crystal Golem - Darkroot Basin:Darkroot Basin:816:1868:1500:3000:No
+Special/Non Respawning:Golden Crystal Golem - Crystal Cave:Crystal Cave:1360:2135:2500:5000:One Respawns The other does not
+Special/Non Respawning:Golden Crystal Golem - Duke's Archives:Duke's Archives:1360:2135:2500:5000:No
+Special/Non Respawning:Havel the Rock:Undead Burg:1000:1600:3000:6000:No
+Special/Non Respawning:Hydra:Darkroot Basin:2520:5770:5000:20000:No
+Special/Non Respawning:Ricard the Archer:Sen's Fortress:719:1315:4000:12000:No
+Special/Non Respawning:Berenike Knights - Undead Parish:Undead Parish:372:930:800:4000:Yes
+Special/Non Respawning:Berenike Knights - Sen's Fortress:Sen's Fortress:620:1134:800:2400:Yes
+Special/Non Respawning:Berenike Knights - Painted World:Painted World of Ariamis:775:1216:1300:2400:Yes
+Special/Non Respawning:Bridge Wyvern:Undead Burg:2208:4416:10000:50000:No
+Special/Non Respawning:Titanite Demon - Darkroot Garden:Darkroot Garden:1506:2000:3765:10000:No
+Special/Non Respawning:Titanite Demon - Sen's Fortress:Sen's fortress:1506:2000:3765:10000:No
+Special/Non Respawning:Titanite Demon - Anor Londo:Anor Londo:2635:5000:4612:15000:No
+Special/Non Respawning:Titanite Demon - Catacombs:The Catacombs:2133:2000:4331:4000:No
+Special/Non Respawning:Titanite Demon - Lost Izalith:Lost Izalith:3137:5000:4926:10000:Yes
+Special/Non Respawning:Undead Dragon - Valley of Drakes:Valley of Drakes:3480:5881:3000:5000:No
+Special/Non Respawning:Undead Dragon - Painted Word:Painted World of Ariamis:3956:6210:9000:10000:No

@@ -9,7 +9,8 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("test");
 		ArrayList<Equipment> curEquip = new ArrayList<Equipment>();
-		dataReadin(curEquip);
+		ArrayList<Enemy> enemyList = new ArrayList<Enemy>();
+		dataReadin(curEquip, enemyList);
 
 	}
 	
@@ -17,19 +18,30 @@ public class Main {
 	
 
 	
-	public static void dataReadin(ArrayList<Equipment> curEquip) {
+	public static void dataReadin(ArrayList<Equipment> curEquip,  ArrayList<Enemy> enemyList) {
 		
 		// - Physical/Crossbows/ Magic Equipment
-		equipmentData(curEquip, "C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\physicalWeapons.txt", "gen");
-		equipmentData(curEquip, "C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\BowsAndCrossbows.txt", "gen");
-		equipmentData(curEquip, "C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\MagicEquipment.txt", "gen");
+		dataProcessing(curEquip, enemyList,  "C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\physicalWeapons.txt", "gen");
+		dataProcessing(curEquip, enemyList, "C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\BowsAndCrossbows.txt", "gen");
+		dataProcessing(curEquip, enemyList,"C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\MagicEquipment.txt", "gen");
 		
-		equipmentData(curEquip, "C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\shields.txt", "shield");
+		dataProcessing(curEquip, enemyList,"C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\shields.txt", "shield");
 		
-		equipmentData(curEquip, "C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\rings.txt", "ring");
+		dataProcessing(curEquip, enemyList, "C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\rings.txt", "ring");
+		
+		dataProcessing(curEquip, enemyList, "C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\MagicAndSorceries.txt", "magic");
+		
+		dataProcessing(curEquip, enemyList, "C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\armor.txt", "armor");
+		
+		
+		dataProcessing(curEquip, enemyList, "C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\basicEnemies.txt", "enemy");
+		dataProcessing(curEquip, enemyList, "C:\\Users\\theroldt\\git\\DarkSoulsSetUpCalculator\\DarkSoulsCalculator\\src\\databaseFiles\\bossStats.txt", "boss");
 
 		
 		for(Equipment x: curEquip){
+			System.out.println(x);
+		}
+		for(Enemy x: enemyList){
 			System.out.println(x);
 		}
 
@@ -37,7 +49,7 @@ public class Main {
 	
 	
 	// handling data
-	public static void equipmentData(ArrayList<Equipment> equipList, String filePath, String type){
+	public static void dataProcessing(ArrayList<Equipment> equipList, ArrayList<Enemy> bossList, String filePath, String type){
 	        File file = new File(filePath);
 
 	        try (Scanner scanner = new Scanner(file)) {
@@ -47,23 +59,75 @@ public class Main {
 	        	// - scanning in lines, routing to proper reader
 	            while (scanner.hasNextLine()) {
 	                String line = scanner.nextLine();
-	                if (type == "gen") {
-		                equipList.add(physicalWeaponReader(line));
-	                }
-	                else if (type == "shield") {
-	                	equipList.add(shieldReader(line));
-	                }
-	                else if (type == "ring") {
-	                	equipList.add(ringReader(line));
-	                }
-	                	
+	                switch (type) {
+	                case "gen":
+	                    equipList.add(physicalWeaponReader(line));
+	                    break;
+	                case "shield":
+	                    equipList.add(shieldReader(line));
+	                    break;
+	                case "ring":
+	                    equipList.add(ringReader(line));
+	                    break;
+	                case "magic":
+	                    equipList.add(magicReader(line));
+	                    break;
+	                case "armor":
+	                    equipList.add(armorReader(line));
+	                    break;
+	                case "enemy":
+	                	bossList.add(enemyReader(line));
+	                	break;
+	                case "boss":
+	                	bossList.add(bossReader(line));
+	                	break;
 	            }
-	        } catch (FileNotFoundException e) {
+	        }} catch (FileNotFoundException e) {
 	            System.err.println("File not found: " + filePath);
 	        }
 
 	}
 
+	
+//String Name, String Location, Integer PhysicalDefense, Integer MagicDefense, Integer FireDefense, Integer LightningDefense,
+//	Integer PoisonDefense, Integer ToxicDefense, Integer BleedDefense, Integer DivineDefense, Integer OccultDefense, Integer HP, Integer HPNG,
+//	Integer Souls, Integer SoulsNG
+	
+	public static Enemy bossReader(String Line) {
+		String[] items = Line.split(":");
+		//String Type, String Name, String Location, Integer HP, Integer HPNG, Integer Souls, Integer SoulsNG
+		Boss newBoss = new Boss(items[0], items[1], Float.parseFloat(items[2]), Float.parseFloat(items[3]), Float.parseFloat(items[4]), Float.parseFloat(items[5]), Float.parseFloat(items[6]),
+				items[7], items[8], items[9], items[10], Float.parseFloat(items[11]), Float.parseFloat(items[12]),
+				Float.parseFloat(items[13]), Float.parseFloat(items[14]));
+		
+		return newBoss;
+		
+	}
+	        
+	public static Enemy enemyReader(String Line) {
+		String[] items = Line.split(":");
+		//String Type, String Name, String Location, Integer HP, Integer HPNG, Integer Souls, Integer SoulsNG
+		Enemy newEnemy = new Enemy(items[0], items[1], items[2], Float.parseFloat(items[3]), Float.parseFloat(items[4]), Float.parseFloat(items[5]), Float.parseFloat(items[6]));
+		
+		return newEnemy;
+		
+	}
+	
+	public static Armor armorReader(String Line) {
+		String[] items = Line.split(":");
+		Armor curArmor = new Armor(items[0], Float.parseFloat(items[1]),Float.parseFloat(items[2]), Float.parseFloat(items[3]), Float.parseFloat(items[4]),
+				Float.parseFloat(items[5]), Float.parseFloat(items[6]), Float.parseFloat(items[7]), Float.parseFloat(items[8]), Float.parseFloat(items[9]),
+				Float.parseFloat(items[10]), Float.parseFloat(items[11]), Float.parseFloat(items[12]));		
+		return curArmor;
+	}
+	
+	public static Magic magicReader(String Line) {
+		String[] items = Line.split(":");
+		Magic curMagic = new Magic(items[1], items[0 ],  Integer.parseInt(items[2]),  Integer.parseInt(items[3]),  Integer.parseInt(items[4]),
+				 Integer.parseInt(items[5]), items[6], items[7]);		
+		return curMagic;
+		
+	}
 	
 	public static Ring ringReader(String Line) {
 		String[] items = Line.split(":");
