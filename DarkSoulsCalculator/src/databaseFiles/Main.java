@@ -13,10 +13,15 @@ public class Main {
 		// - Reading in all Data from textfiles
 		ArrayList<Equipment> curEquip = new ArrayList<Equipment>();
 		ArrayList<Enemy> enemyList = new ArrayList<Enemy>();
-		SaveFile test = new SaveFile("Leon", "no Covenant", 45,1,45,0,0,0,0,0);
-		System.out.println(test.hp);
+		DataBase.Readin(curEquip, enemyList);
 		
-
+		for (Equipment x: curEquip) {
+			System.out.println(x);
+		}
+//		SaveFile test = new SaveFile("Leon", "no Covenant", 45,1,45,0,0,0,0,0);
+//		System.out.println(test.hp);
+		
+		
 		
 		
 	}

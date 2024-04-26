@@ -1,11 +1,11 @@
 Weapon Class:Name:Atk-PHYS:Atk-Mag:Atk-Fire:Atk-Light:Atk-Crit:Def-Phys:Def-Mag:Def-Fire:Def-Light:Def-Crit:Bleed:Poison:Divine:Occult:Str-Req:Dex-Req:Int-Req:Faith-Req:Str-Scale:Dex-Scal:Int-Scal:Faith-Scal:Weight:Durability:Range:Acquired From
-Bow:Short Bow:31:0:0:0:100:0:0:0:0:0:0:0:0:0:7:12:0:0:D:A/S+15:-:-:0.5:100:Ranged- 50:Starting equipment for Hunter Sold by Undead Merchant (male) for 1,000 souls Possible drop from Skeleton (Bow) Possible drop from Undead Knight Archer
-Bow:Composite Bow:55:0:0:0:100:0:0:0:0:0:0:0:0:0:11:12:0:0:C:C:-:-:1:100:Ranged- 38:Found in New Londo Ruins
-Bow:Darkmoon Bow:80:80:0:0:100:0:0:0:0:0:0:0:0:0:7:16:0:16:E:D:-:D:1:400:Ranged- 50:Ascended with Soul of Gwyndolin at the Giant Blacksmith
-Bow:Longbow:36:0:0:0:100:0:0:0:0:0:0:0:0:0:9:14:0:0:D:A/S+15:-:-:1:100:Ranged- 50:Found in the Darkroot Basin Possible drop from Undead Crystal Archer
-Bow:Black Bow of Pharis:34:0:0:0:100:0:0:0:0:0:0:0:0:0:9:18:0:0:E:S:-:-:1:100:Ranged- 65:Drop from a Forest Protector
-Greatbow:Dragonslayer Greatbow:90:0:0:0:100:0:0:0:0:0:0:0:0:0:20:20:0:0:C:C:-:-:10:100:Ranged- 50:Found in Anor Londo
-Greatbow:Gough's Greatbow:85:0:0:0:100:0:0:0:0:0:0:0:0:0:27:20:0:0:B:C:-:-:13:100:Ranged- 55:Obtained from Hawkeye Gough after defeating Black Dragon Kalameet
+Bow:Short Bow:31:0:0:0:100:0:0:0:0:0:0:0:0:0:7:12:0:0:0.456:1.68:-:-:0.5:100:Ranged- 50:Starting equipment for Hunter Sold by Undead Merchant (male) for 1,000 souls Possible drop from Skeleton (Bow) Possible drop from Undead Knight Archer
+Bow:Composite Bow:55:0:0:0:100:0:0:0:0:0:0:0:0:0:11:12:0:0:0.72:0.72:-:-:1:100:Ranged- 38:Found in New Londo Ruins
+Bow:Darkmoon Bow:80:80:0:0:100:0:0:0:0:0:0:0:0:0:7:16:0:16:0.18:0.32:-:0.5:1:400:Ranged- 50:Ascended with Soul of Gwyndolin at the Giant Blacksmith
+Bow:Longbow:36:0:0:0:100:0:0:0:0:0:0:0:0:0:9:14:0:0:0.456:1.68:-:-:1:100:Ranged- 50:Found in the Darkroot Basin Possible drop from Undead Crystal Archer
+Bow:Black Bow of Pharis:34:0:0:0:100:0:0:0:0:0:0:0:0:0:9:18:0:0:0.156:1.98:-:-:1:100:Ranged- 65:Drop from a Forest Protector
+Greatbow:Dragonslayer Greatbow:90:0:0:0:100:0:0:0:0:0:0:0:0:0:20:20:0:0:0.64:0.64:-:-:10:100:Ranged- 50:Found in Anor Londo
+Greatbow:Gough's Greatbow:85:0:0:0:100:0:0:0:0:0:0:0:0:0:27:20:0:0:0.840283465:0.640283465:-:-:13:100:Ranged- 55:Obtained from Hawkeye Gough after defeating Black Dragon Kalameet
 Crossbow:Light Crossbow:50:0:0:0:100:0:0:0:0:0:0:0:0:0:10:8:0:0:-:-:-:-:3:150:Ranged- 50:Found in the Undead Burg Possible drop from Balder Knight (Crossbow) Possible drop from Undead Knight Archer
 Crossbow:Heavy Crossbow:55:0:0:0:100:0:0:0:0:0:0:0:0:0:14:8:0:0:-:-:-:-:5:150:Ranged- 50:Found in the Depths
 Crossbow:Sniper Crossbow:52:0:0:0:100:0:0:0:0:0:0:0:0:0:20:16:0:0:-:-:-:-:8:150:Ranged- 70:Found in Sen's Fortress
